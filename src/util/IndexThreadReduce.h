@@ -30,7 +30,7 @@
 #include <iostream>
 
 
-
+using namespace boost::placeholders;
 namespace dso
 {
 

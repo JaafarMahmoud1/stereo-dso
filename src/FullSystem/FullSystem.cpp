@@ -65,7 +65,7 @@ int FrameHessian::instanceCounter=0;
 int PointHessian::instanceCounter=0;
 int CalibHessian::instanceCounter=0;
 
-
+using namespace boost::placeholders;
 
 FullSystem::FullSystem()
 {
